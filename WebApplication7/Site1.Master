@@ -47,7 +47,7 @@
                             <a class="nav-link" style="color:aliceblue;" href="homepage.aspx">Home</a>
                         </li>
                         <li class="nav-item active">
-                            <a class="nav-link"  style="color:aliceblue;" href="#">Bikes</a>
+                            <a class="nav-link"  style="color:aliceblue;" href="Bikes.aspx">Bikes</a>
                         </li>
                         <li class ="nav-item active">
                             <a class="nav-link"  style="color:aliceblue;" >Bikes Parts</a>
@@ -68,7 +68,7 @@
                             <asp:LinkButton class="nav-link" ID="LinkButton4"  style="color:aliceblue;" runat="server">Cart</asp:LinkButton>
                         </li>
                         <li class="nav-item active">
-                            <asp:LinkButton class="nav-link" ID="LinkButton5"  style="color:aliceblue;" runat="server" OnClick="LinkButton5_Click">Profile</asp:LinkButton>
+                            <asp:LinkButton class="nav-link" OnClick="LinkButton5_Click" ID="LinkButton5"  style="color:aliceblue;" runat="server" >Profile</asp:LinkButton>
                         </li>
                         <li class="nav-item active">
                             <asp:LinkButton class="nav-link" ID="LinkButton1"  style="color:aliceblue;" runat="server">Login</asp:LinkButton>

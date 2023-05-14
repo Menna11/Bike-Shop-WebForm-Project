@@ -27,21 +27,21 @@
                <center>
                   <img width="150" height="200" src="imgs/bike1.png" />
                   <h4>T52-Manual</h4>
-                   <button style="background-color:cornflowerblue;color:white">Shop Now</button>
+                   <button style="background-color:cornflowerblue;color:white" href="Bikes.aspx">Shop Now</button>
                   </center>
             </div>
             <div class="col-md-4">
                <center>
                   <img width="150" height="200" src="imgs/bike2.png"/>
                   <h4>M90-All In</h4>
-                     <button style="background-color:cornflowerblue;color:white">Shop Now</button>
+                     <button style="background-color:cornflowerblue;color:white" href="Bikes.aspx">Shop Now</button>
                   </center>
             </div>
             <div class="col-md-4">
                <center>
                   <img width="150" height="200" src="imgs/bike3.png"/>
                   <h4>TMI-9000</h4>
-                     <button style="background-color:cornflowerblue;color:white">Shop Now</button>
+                     <button style="background-color:cornflowerblue;color:white" href="Bikes.aspx">Shop Now</button>
                    </center>
             </div>
          </div>

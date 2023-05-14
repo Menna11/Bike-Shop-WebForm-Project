@@ -13,7 +13,6 @@ namespace WebApplication7
         {
 
         }
-
         protected void LinkButton5_Click(object sender, EventArgs e)
         {
             Response.Redirect("Profile.aspx");
